@@ -1,0 +1,26 @@
+  .logo{
+    width: 42%;
+    margin-bottom: 45px;
+    margin-left: 40px;
+  }
+
+  .label1{
+    margin-left: 40px;
+  }
+
+  .p{
+    font-size:35px;
+    text-align: center;
+  }
+
+  .col-6:hover{
+    color: rgb(176, 180, 184);
+  }
+
+  footer ul li{
+    list-style: none;
+  }
+
+  footer ul{
+    border-right: 2px solid grey;
+  }
